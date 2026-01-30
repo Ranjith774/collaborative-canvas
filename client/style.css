@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+#toolbar {
+  background: #eee;
+  padding: 10px;
+}
+
+canvas {
+  display: block;
+}
